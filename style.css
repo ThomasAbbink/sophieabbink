@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(140, 173, 201);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+h1 {
+  color: #220404;
+  font-size: 6rem;
+}
